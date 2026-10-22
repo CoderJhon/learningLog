@@ -4,3 +4,5 @@ def count_vowels(text):
         if ch in "aeiou":
             count += 1
     return count
+
+print(count_vowels("HelLowor12ld"))
