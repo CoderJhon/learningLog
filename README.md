@@ -1,0 +1,2 @@
+# learningLog
+Learning python
